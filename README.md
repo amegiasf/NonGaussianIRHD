@@ -4,4 +4,6 @@ This repository contains the data files for the simulation results exposed in th
 
 The folders contains the following data:
 
-
+- Mathematica: Notebook to reproduce the theoretical results exposed in the paper.
+- HCS: Data from DSMC and EDMD simulations for the Sonine approximation (SA) relevant quantities, and for the exponents for hard disks.
+- cumualants: Simulation data from DSMC and EDMD for the time evoltion of the $\theta=T_r/T_t$, and the first nontrivial cumualants $a_{20}$,
