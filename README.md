@@ -1,4 +1,4 @@
-# Simulation Results of 'Translational and rotational non-Gaussianities in homogenenous freely evolving granular gases'
+# Simulation Results of "Translational and rotational non-Gaussianities in homogenenous freely evolving granular gases"
 
 This repository contains the data files for the simulation results exposed in the paper 'A. Megías and A. Santos, Translational and rotational non-Gaussianities in homogenenous freely evolving granular gases,' to be published in Phys. Rev. E.
 
